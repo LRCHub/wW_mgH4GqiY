@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "TEENAGE RIOT",
+  "base_artist": "Kenshi Yonezu",
+  "createdAt": "2025-12-17T07:45:39.956579Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "TEENAGE RIOT",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/01_TEENAGE_RIOT_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Atari Teenage Riot II",
+      "artist": "Atari Teenage Riot",
+      "has_synced": false,
+      "path": "select/02_Atari_Teenage_Riot_II_Atari_Teenage_Riot.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Atari Teenage Riot (Live)",
+      "artist": "Atari Teenage Riot",
+      "has_synced": false,
+      "path": "select/03_Atari_Teenage_Riot_(Live)_Atari_Teenage_Riot.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Atari Teenage Riot (Live From Hell 13)",
+      "artist": "Atari Teenage Riot",
+      "has_synced": false,
+      "path": "select/04_Atari_Teenage_Riot_(Live_From_Hell_13)_Atari_Teenage_Riot.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Atari Teenage Riot (feat. Rowdy SS) (Live From Hell 13)",
+      "artist": "Atari Teenage Riot",
+      "has_synced": false,
+      "path": "select/05_Atari_Teenage_Riot_(feat._Rowdy_SS)_(Live_From_Hell_13)_Atari_Teenage_Riot.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "No Remorse (I Wanna Die) (feat. Atari Teenage Riot)",
+      "artist": "Slayer",
+      "has_synced": true,
+      "path": "select/06_No_Remorse_(I_Wanna_Die)_(feat._Atari_Teenage_Riot)_Slayer.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Teenage Riot",
+      "artist": "The Ataris",
+      "has_synced": true,
+      "path": "select/07_Teenage_Riot_The_Ataris.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "No Remorse (I Wanna Die) (feat. Atari Teenage Riot) (Spawn soundtrack)",
+      "artist": "Slayer",
+      "has_synced": true,
+      "path": "select/08_No_Remorse_(I_Wanna_Die)_(feat._Atari_Teenage_Riot)_(Spawn_soundtrack)_Slayer.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "TEENAGE RIOT",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/09_TEENAGE_RIOT_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "TEENAGE RIOT",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/10_TEENAGE_RIOT_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Teenage Riot",
+      "artist": "Sonic Youth",
+      "has_synced": true,
+      "path": "select/11_Teenage_Riot_Sonic_Youth.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Teenage Riot\u0000",
+      "artist": "The Ataris\u0000",
+      "has_synced": true,
+      "path": "select/12_Teenage_Riot\u0000_The_Ataris\u0000.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Slayer & Atari Teenage Riot / No Remorse (I Wanna Die)",
+      "artist": "Spawn",
+      "has_synced": true,
+      "path": "select/13_Slayer_&_Atari_Teenage_Riot___No_Remorse_(I_Wanna_Die)_Spawn.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "TEENAGE RIOT",
+      "artist": "Yonezu Kenshi",
+      "has_synced": true,
+      "path": "select/14_TEENAGE_RIOT_Yonezu_Kenshi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "TEENAGE RIOT",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_01_TEENAGE_RIOT_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "TEENAGE RIOT",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_02_TEENAGE_RIOT_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "TEENAGE RIOT",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_03_TEENAGE_RIOT_米津玄師.txt"
+    }
+  ]
+}
